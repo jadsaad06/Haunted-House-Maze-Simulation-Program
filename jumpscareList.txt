@@ -1,0 +1,50 @@
+A clown is chasing you!;25
+A skeleton covered in blood pops out the corner!;30
+The lights suddenly go out, and footsteps approach!;18
+You hear a distant scream growing louder!;20
+A ghostly figure appears behind you in the mirror!;35
+A door slams shut on its own!;22
+You feel cold breath on your neck!;28
+An eerie voice whispers your name!;19
+A disfigured hand reaches out from under the bed!;40
+A swarm of bats flies straight at you!;16
+A monstrous growl echoes through the hall!;27
+A shadowy figure darts past your peripheral vision!;21
+A severed hand crawls across the floor!;36
+The walls start closing in slowly!;24
+A pair of glowing red eyes stare at you from the dark!;33
+Suddenly, the floor beneath you creaks ominously!;17
+A painting's eyes follow your every movement!;23
+The sound of rattling chains surrounds you!;26
+You turn around and see nothing, but feel you're not alone!;18
+A ghostly wail echoes through the room!;32
+You see something moving in the fog, getting closer!;29
+A loud bang startles you from behind!;19
+A giant spider drops from the ceiling above you!;37
+The temperature drops suddenly, and your breath becomes visible!;20
+You hear the faint sound of crying in the distance!;15
+A figure in a long black cloak reaches for you!;31
+The sound of nails scraping against glass sends chills down your spine!;27
+The mirror in front of you cracks, revealing something sinister!;34
+A rotting corpse sits up from a nearby coffin!;39
+A hand grabs your ankle from beneath the floor!;21
+The sound of a chainsaw revving up echoes around you!;42
+Blood drips from the ceiling, landing on your face!;25
+Suddenly, the walls are covered in writing that wasn't there before!;22
+You hear the unmistakable sound of footsteps following you!;19
+A horde of zombies crashes through the door!;35
+The air is filled with the smell of decay!;18
+A chilling laugh echoes in the silence!;23
+The furniture in the room starts moving on its own!;28
+A demonic voice commands you to leave!;43
+A bloodied figure walks towards you with an empty stare!;38
+You suddenly feel something crawling up your leg!;17
+You catch a glimpse of a pale face in the window!;29
+The walls are covered in bloody handprints!;26
+A deafening scream pierces the silence!;31
+A maniacal figure with an axe runs towards you!;41
+Your reflection smiles at you when you're not smiling!;37
+The ground beneath you starts shaking violently!;20
+A black cat with glowing eyes hisses at you!;15
+You find yourself locked in a room with no exit!;40
+The radio turns on by itself, playing creepy static!;22
